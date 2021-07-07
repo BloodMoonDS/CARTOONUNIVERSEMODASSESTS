@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bloodiey.png">
+<!--Idle Frame 1-->
+    <SubTexture name="BloodieyIdle0000" x="0" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0001" x="0" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0002" x="0" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0003" x="0" y="0" width="576" height="576"/>
+<!--Idle Frame 2-->
+    <SubTexture name="BloodieyIdle0004" x="576" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0005" x="576" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0006" x="576" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0007" x="576" y="0" width="576" height="576"/>
+<!--Idle Frame 3-->
+    <SubTexture name="BloodieyIdle0008" x="1152" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0009" x="1152" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0010" x="1152" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0011" x="1152" y="0" width="576" height="576"/>
+<!--Idle Frame 4-->
+    <SubTexture name="BloodieyIdle0012" x="1728" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0013" x="1728" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0014" x="1728" y="0" width="576" height="576"/>
+    <SubTexture name="BloodieyIdle0015" x="1728" y="0" width="576" height="576"/>
+<!--Unused Anims-->
+<!--Walk Anim-->
+    <SubTexture name="Bloodiey Walk0000" x="2304" y="0" width="576" height="576"/>
+    <SubTexture name="Bloodiey Walk0001" x="0" y="576" width="576" height="576"/>
+    <SubTexture name="Bloodiey Walk0002" x="576" y="576" width="576" height="576"/>
+    <SubTexture name="Bloodiey Walk0004" x="0" y="576" width="576" height="576"/>
+<!--Fighting Sprites-->
+    <SubTexture name="Bloodiey Fight A0000" x="1728" y="576" width="576" height="576"/>
+    <SubTexture name="Bloodiey Fight B0000" x="1152" y="576" width="576" height="576"/>
+    <SubTexture name="Bloodiey Kick0000" x="3072" y="576" width="576" height="576"/>
+<!--Boxing Sprites-->
+    <SubTexture name="Bloodiey Boxing A0000" x="0" y="1152" width="576" height="576"/>
+    <SubTexture name="Bloodiey Boxing B0000" x="576" y="1152" width="576" height="576"/>
+    <SubTexture name="Bloodiey Boxing C0000" x="1152" y="1152" width="576" height="576"/>
+    <SubTexture name="Bloodiey Boxing D0000" x="1728" y="1152" width="576" height="576"/>
+    <SubTexture name="Bloodiey Boxing E0000" x="2304" y="1152" width="576" height="576"/>
+    <SubTexture name="Bloodiey Boxing F0000" x="0" y="1728" width="576" height="576"/>
+<!-- Unused Miss Note-->
+    <SubTexture name="Bloodiey Miss0000" x="576" y="1728" width="576" height="576"/>
+<!-- USED SING NOTES-->
+    <SubTexture name="BloodieySingLeft0000" x="1152" y="1728" width="576" height="576"/>
+    <SubTexture name="BloodieySingRight0000" x="1728" y="1728" width="576" height="576"/>
+    <SubTexture name="BloodieySingUp0000" x="2304" y="1728" width="576" height="576"/>
+    <SubTexture name="BloodieySingDown0000" x="0" y="2304" width="576" height="576"/>
+</TextureAtlas>

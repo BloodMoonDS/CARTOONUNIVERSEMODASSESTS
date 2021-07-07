@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this -->
+<TextureAtlas imagePath="bloodieythecat.png" >
+<!-- Fila 1 -->
+<SubTexture name = "BloodieyIdle0000" x="0" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0001" x="0" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0002" x="0" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0003" x="512" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0004" x="512" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0005" x="512" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0006" x="1024" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0007" x="1024" y ="0" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0008" x="1024" y ="0" width="512" height="512"/>
+<!--Fila 2 -->
+<SubTexture name = "BloodieyIdle0009" x="0" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0010" x="0" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0011" x="0" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0012" x="512" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0013" x="512" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieyIdle0014" x="512" y ="512" width="512" height="512"/>
+<SubTexture name = "BloodieySingDown0000" x="1024" y ="512" width="512" height="512"/>
+<!--fila 3 -->
+<SubTexture name = "BloodieySingLeft0000" x="0" y ="1024" width="512" height="512"/>
+<SubTexture name = "BloodieySingRight0000" x="512" y ="1024" width="512" height="512"/>
+<SubTexture name = "BloodieySingUp0000" x="1024" y ="1024" width="512" height="512"/>
+
+
+
+</TextureAtlas>
